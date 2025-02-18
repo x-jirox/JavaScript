@@ -1,4 +1,3 @@
-
 //var
 
 var hello="hola javascript"
@@ -8,7 +7,6 @@ console.log (hello)
 hello=("no es buena ppractica usar la misma variable")
 console.log(hello)
 */
-
 
 
 //let 
